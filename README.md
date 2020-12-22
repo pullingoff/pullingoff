@@ -1,12 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ede624&height=300&section=header&text=Haeun%20Hailey%20Park&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ede624&height=300&section=header&text=Haeun%20Hailey%20Park&fontSize=90) 
+
+# Tech Stacks
 <img src="https://img.shields.io/badge/JAVA-1126AB?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-orange?style=flat&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-pink?style=flat&logo=Html&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-4287f5?style=flat&logo=Css&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/Spring-orange?style=flat&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bootstrap-green?style=flat&logo=Bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-4287f5?style=flat&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Tomcat-E8E8E8?style=flat&logo=Apache&logoColor=white"/></a>
