@@ -21,4 +21,4 @@
 
 <a href="techsignal.tistory.com"><img src="https://img.shields.io/badge/Tech Signal-fcba03?style=flat-square&link=techsignal.tistory.com"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=ede624&footer=150&section=header&text=Haeun%20Hailey%20Park&fontSize=90) 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=ede624&height=150&section=footer&text=Haeun%20Hailey%20Park&fontSize=90) 
