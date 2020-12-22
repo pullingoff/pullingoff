@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-E8E8E8?style=flat&logo=Apache&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Maven-aea3d6?style=flat&logo=ApacheMaven&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Maven-aea3d6?style=flat&logo=Apache-Maven&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
