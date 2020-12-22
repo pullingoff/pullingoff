@@ -5,5 +5,5 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-pink?style=flat&logo=Html&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-red?style=flat&logo=Css&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-002A29?style=flat&logo=Css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bootstrap-green?style=flat&logo=Css&logoColor=white"/></a>
