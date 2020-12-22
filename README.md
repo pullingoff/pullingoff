@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/Bootstrap-green?style=flat&logo=Bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-4287f5?style=flat&logo=jQuery&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache Tomcat-E8E8E8?style=flat&logo=Apache&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ApacheTomcat-E8E8E8?style=flat&logo=Apache&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Maven-aea3d6?style=flat&logo=Apache Maven&logoColor=white"/></a>
