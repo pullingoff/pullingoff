@@ -16,3 +16,5 @@
 
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+
+<a href="techsignal.tistory.com"><img src="https://img.shields.io/badge/테크 블로그 'Tech Signal'-fcba03?style=flat-square&link=techsignal.tistory.com"/></a>
