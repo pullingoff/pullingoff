@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ede624&height=150&section=header&text=Haeun%20Hailey%20Park&fontSize=90) 
+![header](https://capsule-render.vercel.app/api?type=wave&color=ede624&height=150&section=header&text=Haeun%20Hailey%20Park&fontSize=50) 
 
 # Tech Stacks
 <img src="https://img.shields.io/badge/JAVA-1126AB?style=flat&logo=Java&logoColor=white"/></a>
