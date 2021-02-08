@@ -20,6 +20,3 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
 <a href="techsignal.tistory.com"><img src="https://img.shields.io/badge/Tech Signal-fcba03?style=flat-square&link=techsignal.tistory.com"/></a>
-
-//![footer](https://capsule-render.vercel.app/api?type=wave&color=ede624&height=150&section=footer&text=Haeun%20Hailey%20Park&fontSize=90) 
-
