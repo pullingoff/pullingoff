@@ -6,8 +6,8 @@
 
 
 ## 👀 More about Me 
-- 📕 [블로그 보러가기](pullingoff.github.io)
-- 🗣 [짹짹](twitter.com/devpullingoff)! 약간의 사담과 개발 이야기
+- 📕 [블로그 보러가기](https://pullingoff.github.io)
+- 🗣 [짹짹](https://twitter.com/devpullingoff)! 약간의 사담과 개발 이야기
 - 📂 [링크드인](https://www.linkedin.com/in/hailey-park/)에는 제가 경험한 것들에 대한 좀 더 디테일한 이야기가 있습니다.  
 
 
