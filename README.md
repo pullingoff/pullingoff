@@ -6,9 +6,9 @@
 
 
 ## 👀 More about Me 
-- 📕 [블로그 보러가기](https://pullingoff.github.io)
+- 📕 [직접 개발한 블로그 보러가기](https://pullingoff.github.io)
 - 🗣 [짹짹](https://twitter.com/devpullingoff)! 약간의 사담과 개발 이야기
-- 📂 [링크드인](https://www.linkedin.com/in/hailey-park/)에는 제가 경험한 것들에 대한 좀 더 디테일한 이야기가 있습니다.  
+- 📂 [링크드인](https://www.linkedin.com/in/hailey-park/)에는 제가 경험한 것들의 디테일한 이야기가 있습니다.  
 
 
 [![Haeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=pullingoff)](https://github.com/anuraghazra/github-readme-stats)
