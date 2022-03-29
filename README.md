@@ -7,6 +7,7 @@
 
 ## 👀 More about Me 
 - 📕 [직접 개발한 블로그 보러가기](https://pullingoff.github.io)
+- 💾 [거의 매일 기록하는 TIL ](https://pullingoff.github.io/vue-til)
 - 🗣 [짹짹](https://twitter.com/devpullingoff)! 약간의 사담과 개발 이야기
 - 📂 [링크드인](https://www.linkedin.com/in/hailey-park/)에는 제가 경험한 것들의 디테일한 이야기가 있습니다.  
 
