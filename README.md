@@ -1,3 +1,7 @@
+<p align='center'>
+<img width='400' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif' />
+</div>
+
 # 🕷 박하은입니다
 **"거미는 자신의 실로써 공간의 자유에 이른다."**   
 좋아하는 책 ‘저지대’에 나오는 구절입니다. **궁금한 것에 도전하고, 앞으로 나아가고자** 발걸음을 내딛는 제 모습이 거미와 같다고 느꼈습니다.   
@@ -14,10 +18,8 @@
 [![Haeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=pullingoff)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## My Skill Set  
-<table cellspacing="0" cellpadding="0"><tr><td valign="top" width="33%">
-
-
+## 🙆🏻‍♀️ 할 줄 압니다
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
