@@ -17,9 +17,6 @@
 - 📕 [블로그 보러가기](https://haeun.vercel.app)
 - 📂 [링크드인](https://www.linkedin.com/in/hailey-park/)
 
-[![Haeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=pullingoff)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🙆🏻‍♀️ Tech stacks
 
 <section align="center">
