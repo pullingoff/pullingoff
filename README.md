@@ -18,6 +18,6 @@ _**"거미는 자신의 실로써 공간의 자유에 이른다."**_
 
 ## 👀 More about me 
 
-- 📕 [블로그 보러가기](https://haeun.vercel.app)
+- 📕 [블로그: www.haeun.dev](https://www.haeun.dev)
 - 📂 [링크드인](https://www.linkedin.com/in/hailey-park/)
 - **자세한 포트폴리오는 devhaeun@gmail.com로 메일 주시면 보내드리겠습니다.**
