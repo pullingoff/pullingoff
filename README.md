@@ -12,9 +12,8 @@ _**"거미는 자신의 실로써 공간의 자유에 이른다."**_
 
 ## 🙆🏻‍♀️ Tech stacks
 
-- 프론트엔드: React, JavaScript, Next.js, TypeScript, TanStack Query, MUI, styled-components, Tailwind CSS, HTML/CSS, Cypress, react-hook-form, Redux
-- 그 외 업무에 활용 가능한 기술: MySQL, Python, Neo4j, Git, Jira
-- 공부 중인 기술: Recoil, 함수형 프로그래밍
+- 프론트엔드: React, Next.js, TypeScript, TanStack Query, MUI, styled-components, Tailwind, Cypress, react-hook-form, Redux, Recoil
+- 그 외 업무에 활용 가능한 기술: MySQL, Python, Neo4j, Git
 
 ## 👀 More about me 
 
